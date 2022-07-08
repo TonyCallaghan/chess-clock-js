@@ -1,5 +1,7 @@
-# chess-clock-js
+# Chess Clock
 A chess clock replacement that consists of 2 identical timers for white / black.
+
+[Live Demo](https://chessclockjs.surge.sh/)
 
 Made with:
 - HTML/CSS
